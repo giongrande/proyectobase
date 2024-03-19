@@ -10,7 +10,8 @@ namespace MyGame
     {
                     
         static IntPtr image = Engine.LoadImage("assets/fondo.png");
-   
+        static IntPtr player = Engine.LoadImage("assets/player.png");
+
 
         static void Main(string[] args)
         {
